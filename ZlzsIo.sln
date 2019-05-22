@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZlzsIo", "ZlzsIo\ZlzsIo.csproj", "{F2213024-A255-4714-8082-7BF9DF121C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DF68BC65-BDD3-4761-A820-07EA314C5D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2213024-A255-4714-8082-7BF9DF121C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2213024-A255-4714-8082-7BF9DF121C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2213024-A255-4714-8082-7BF9DF121C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2213024-A255-4714-8082-7BF9DF121C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF68BC65-BDD3-4761-A820-07EA314C5D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF68BC65-BDD3-4761-A820-07EA314C5D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF68BC65-BDD3-4761-A820-07EA314C5D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF68BC65-BDD3-4761-A820-07EA314C5D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
