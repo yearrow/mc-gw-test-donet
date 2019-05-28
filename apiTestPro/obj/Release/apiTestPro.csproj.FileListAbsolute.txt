@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.exe.config
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.exe
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.pdb
@@ -9,3 +10,26 @@ E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTe
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.exe
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.pdb
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.csprojAssemblyReference.cache
+=======
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\Newtonsoft.Json.dll
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\Newtonsoft.Json.xml
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.csproj.CoreCompileInputs.cache
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.csproj.CopyComplete
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.exe.config
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.exe
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.pdb
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Release\System.Net.Http.Formatting.dll
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.exe
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.pdb
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.exe.config
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.exe
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Release\apiTestPro.pdb
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Release\Newtonsoft.Json.dll
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Release\System.Net.Http.Formatting.dll
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Release\Newtonsoft.Json.xml
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.csprojAssemblyReference.cache
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.csproj.CoreCompileInputs.cache
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.csproj.CopyComplete
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.exe
+E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Release\apiTestPro.pdb
+>>>>>>> a7e75af6273a48535f3d3aa36e378851814c568f
