@@ -17,3 +17,8 @@ E:\物资质量管理\铁路局质量追溯系统\接口程序\ZlzsIo\Models\bin
 E:\物资质量管理\铁路局质量追溯系统\接口程序\ZlzsIo\Models\bin\Debug\Models.pdb
 E:\物资质量管理\铁路局质量追溯系统\接口程序\ZlzsIo\Models\obj\Debug\Models.dll
 E:\物资质量管理\铁路局质量追溯系统\接口程序\ZlzsIo\Models\obj\Debug\Models.pdb
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\Models\bin\Debug\Models.dll
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\Models\bin\Debug\Models.pdb
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\Models\obj\Debug\Models.dll
+E:\公司项目\物资9.0\工具库\ApiTestPrograme\Models\obj\Debug\Models.pdb
