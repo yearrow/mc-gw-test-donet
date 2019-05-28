@@ -20,17 +20,3 @@ E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\bin\Debug\Newtons
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.csproj.CopyComplete
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.exe
 E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.pdb
-<<<<<<< HEAD
-=======
-E:\公司项目\物资9.0\工具库\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.csprojAssemblyReference.cache
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Debug\apiTestPro.exe.config
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Debug\apiTestPro.exe
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Debug\apiTestPro.pdb
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Debug\Newtonsoft.Json.dll
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Debug\System.Net.Http.Formatting.dll
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\bin\Debug\Newtonsoft.Json.xml
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.csproj.CoreCompileInputs.cache
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.csproj.CopyComplete
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.exe
-E:\lpdemo\ApiTestPrograme\ApiTestPrograme\apiTestPro\obj\Debug\apiTestPro.pdb
->>>>>>> a7e75af6273a48535f3d3aa36e378851814c568f
